@@ -22,8 +22,8 @@ title: Election Access Laws
 email: e.feasley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The election laws for various states (which are currently inaccurate) are available up top
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/states" # the subpath of your site, e.g. /blog
+url: "https://askew1312.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: veryeli
 #github_username:  askew1312
 
